@@ -1,0 +1,25 @@
+done - save/load function
+
+done - image.h
+
+entropy loss
+
+done - backpropagation
+
+done - dataset struct
+
+done - normalize input
+
+softmax output layer, relu hidden layer
+
+read about parallelism
+
+done - prediction function
+
+proper function to predict many images
+
+read about dropout, regularization and optimization algorithms
+
+scale images to 28x28
+
+activation function as macro
